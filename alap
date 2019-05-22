@@ -3,14 +3,17 @@
 
 <head>
 
+    <link rel="stylesheet" type= "text/css" href= "stílus.css">
+
 <meta charset= UTF-8>
-<title></title>
+
+<title>Valamicím</title>
 
 </head>
 <body>
 
-<h1>My First Heading</h1>
-<p>My first paragraph.</p>
+<h1>Névjegy kártya</h1>
+
 
 </body>
 </html> 
