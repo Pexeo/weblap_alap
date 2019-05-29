@@ -1,19 +1,11 @@
 <!DOCTYPE html>
 <html>
-
 <head>
-
-    <link rel="stylesheet" type= "text/css" href= "stílus.css">
-
+<link rel="stylesheet" type= "text/css" href= "stílus.css">
 <meta charset= UTF-8>
-
 <title>Valamicím</title>
-
 </head>
 <body>
-
 <h1>Névjegy kártya</h1>
-
-
 </body>
 </html> 
